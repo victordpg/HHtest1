@@ -1,9 +1,3 @@
 hanhan@cn.ibm.com
 
 hh198482
-
-<<<<<<< HEAD
-=======
-feature1
-gfgf
->>>>>>> feature1
