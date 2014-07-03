@@ -1,5 +1,6 @@
 aaaaaaaaaaaaaaa
 
+<<<<<<< HEAD
 jhjhkjhk
 
 victor added
@@ -7,3 +8,8 @@ victor added
 victor add 2
 
 victor add 3
+=======
+jhjhkjhkaaafdsf
+
+uouu
+>>>>>>> refs/remotes/origin/develop
